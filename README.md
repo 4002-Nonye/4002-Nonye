@@ -3,7 +3,7 @@
 
 
 # 💫 About Me:
-I’m currently working on an Invoice app<br>I’m currently learning React js, State Management with Redux and Next js<br>How to reach me ojukwuchinonye70@gmail.com<br>Ask me about JavaScript, React js<br>Fun fact I love to play table tennis<br>
+I’m currently working on [Invoice app](https://www.frontendmentor.io/challenges/invoice-app-i7KaLTQjl)<br>I’m currently **React js, State Management with Redux and Next js**<br>How to reach me ojukwuchinonye70@gmail.com<br>Ask me about JavaScript, React js<br>Fun fact I love to play table tennis<br>[My Resume](https://docs.google.com/document/d/1SatEHLqVFNGEfxPavpX_WpYEIm8GJTDyDXsTiy-mbKM/edit?usp=sharing)
 
 
 ## 🌐 Socials:
@@ -16,6 +16,11 @@ I’m currently working on an Invoice app<br>I’m currently learning React js, 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=4002-Nonye&theme=react&hide_border=true&include_all_commits=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=4002-Nonye&theme=react&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=4002-nonye&show_icons=true&locale=en&layout=compact" alt="4002-nonye" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=4002-nonye&show_icons=true&locale=en" alt="4002-nonye" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=4002-nonye&" alt="4002-nonye" /></p>
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
