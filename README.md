@@ -1,8 +1,6 @@
 <h1 align="left">Hi 👋, I'm Nonye</h1>
 <h3 align="left">A passionate frontend developer from Nigeria</h3>
 
-![](https://komarev.com/ghpvc/?username=4002-Nonye&color=blue&style=for-the-badge&label=PROFILE+VIEWS)
-
 
 # 💫 About Me:
 I’m currently working on an Invoice app<br>I’m currently learning React js, State Management with Redux and Next js<br>How to reach me ojukwuchinonye70@gmail.com<br>Ask me about JavaScript, React js<br>Fun fact I love to play table tennis<br>
@@ -21,6 +19,7 @@ I’m currently working on an Invoice app<br>I’m currently learning React js, 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
+![](https://komarev.com/ghpvc/?username=4002-Nonye&color=blue&style=for-the-badge&label=PROFILE+VIEWS)
 
 
 
