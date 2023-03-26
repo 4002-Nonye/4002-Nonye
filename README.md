@@ -3,7 +3,7 @@
 
 
 # 💫 About Me:
-I’m currently working on [Invoice app](https://www.frontendmentor.io/challenges/invoice-app-i7KaLTQjl)<br>I’m currently **React js, State Management with Redux and Next js**<br>How to reach me ojukwuchinonye70@gmail.com<br>Ask me about JavaScript, React js<br>Fun fact I love to play table tennis<br>[My Resume](https://docs.google.com/document/d/1SatEHLqVFNGEfxPavpX_WpYEIm8GJTDyDXsTiy-mbKM/edit?usp=sharing)
+I’m currently working on [Invoice app](https://www.frontendmentor.io/challenges/invoice-app-i7KaLTQjl)<br>I’m currently **React js, State Management with Redux and Next js**<br>How to reach me ojukwuchinonye70@gmail.com<br>Ask me about JavaScript, React js<br>Fun fact I love to play table tennis<br>📄 Know about my experiences-[My Resume](https://docs.google.com/document/d/1SatEHLqVFNGEfxPavpX_WpYEIm8GJTDyDXsTiy-mbKM/edit?usp=sharing)
 
 
 ## 🌐 Socials:
