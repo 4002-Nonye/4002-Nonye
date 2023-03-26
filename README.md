@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Nonye</h1>
-<h3 align="center">A passionate frontend developer from Nigeria</h3>
+<h1 align="left">Hi 👋, I'm Nonye</h1>
+<h3 align="left">A passionate frontend developer from Nigeria</h3>
 
 # 💫 About Me:
 I’m currently working on an Invoice app<br>I’m currently learning React js, State Management with Redux and Next js<br>How to reach me ojukwuchinonye70@gmail.com<br>Ask me about JavaScript, React js<br>Fun fact I love to play table tennis<br>
@@ -22,6 +22,7 @@ I’m currently working on an Invoice app<br>I’m currently learning React js, 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=4002-Nonye&label=Profile%20views&color=0e75b6&style=flat" alt="4002-nonye" /> </p>
+![Profile Views](https://komarev.com/ghpvc/?username=4002-Nonye&color=blueviolet&style=flat-square&label=13k)
+
 
 
