@@ -15,13 +15,11 @@ I’m currently working on an Invoice app<br>I’m currently learning React js, 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=4002-Nonye&theme=react&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=4002-Nonye&theme=react&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
-## 🐦 Latest Tweet
-[![](https://gtce.itsvg.in/api?username=the_altekid)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
-
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
----![Profile Views](https://komarev.com/ghpvc/?username=4002-Nonye&color=blueviolet&style=for-the-badge&label=numviews)
+
+
 
 
 
