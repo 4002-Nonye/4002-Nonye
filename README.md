@@ -7,13 +7,13 @@
 
 - 🌱 I’m currently learning **React js, State Management with Redux and Next js**
 
-- 📫 How to reach me ojukwuchinonye70@gmail.com
+- 💬 Ask me about **JavaScript, React js**
 
-- 💬 Ask me about JavaScript, React js
+- 📫 How to reach me **ojukwuchinonye70@gmail.com**
 
-- 📄 Know about my experiences-[My Resume](https://docs.google.com/document/d/1SatEHLqVFNGEfxPavpX_WpYEIm8GJTDyDXsTiy-mbKM/edit?usp=sharing)
+- 📄 Know about my experiences [My Resume](https://docs.google.com/document/d/1SatEHLqVFNGEfxPavpX_WpYEIm8GJTDyDXsTiy-mbKM/edit?usp=sharing)
 
-- ⚡ Fun fact I love to play table tennis
+- ⚡ Fun fact **I love to play table tennis**
 
 
 ## 🌐 Socials:
