@@ -22,7 +22,7 @@ I’m currently working on an Invoice app<br>I’m currently learning React js, 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-![Profile Views](https://komarev.com/ghpvc/?username=4002-Nonye&color=blueviolet&style=flat-square&label=13k)
+![Profile Views](https://komarev.com/ghpvc/?username=4002-Nonye&color=blueviolet&style=for-the-badge&label=numviews)
 
 
 
