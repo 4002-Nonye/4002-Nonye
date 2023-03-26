@@ -2,8 +2,12 @@
 <h3 align="left">A passionate frontend developer from Nigeria</h3>
 
 
-# 💫 About Me:
-- 🔭 I’m currently working on [Invoice app](https://www.frontendmentor.io/challenges/invoice-app-i7KaLTQjl)<br>- 🌱 I’m currently learning **React js, State Management with Redux and Next js**<br>- 📫 How to reach me ojukwuchinonye70@gmail.com<br>- 💬 Ask me about JavaScript, React js<br>- 📄 Know about my experiences-[My Resume](https://docs.google.com/document/d/1SatEHLqVFNGEfxPavpX_WpYEIm8GJTDyDXsTiy-mbKM/edit?usp=sharing)<br>- ⚡ Fun fact I love to play table tennis
+# 💫 About Me
+- 🔭 I’m currently working on [Invoice app](https://www.frontendmentor.io/challenges/invoice-app-i7KaLTQjl)
+- 🌱 I’m currently learning **React js, State Management with Redux and Next js**
+- 📫 How to reach me ojukwuchinonye70@gmail.com<br>- 💬 Ask me about JavaScript, React js
+- 📄 Know about my experiences-[My Resume](https://docs.google.com/document/d/1SatEHLqVFNGEfxPavpX_WpYEIm8GJTDyDXsTiy-mbKM/edit?usp=sharing)
+- ⚡ Fun fact I love to play table tennis
 
 
 ## 🌐 Socials:
