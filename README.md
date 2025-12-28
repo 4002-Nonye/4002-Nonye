@@ -20,7 +20,7 @@ I'm a full-stack developer passionate about building scalable web applications t
 - 🤖 **Latest:** Integrated AI-powered tag generation in my [note-taking app](https://note-taking-web-app-955k.onrender.com/)
 - 💼 **Open to:** Full-time roles, freelance projects, and collaborations
 - 📫 **Reach me:** ojukwuchinonye70@gmail.com
-- 📄 **Resume:** [View My Resume](https://docs.google.com/document/d/1SatEHLqVFNGEfxPavpX_WpYEIm8GJTDyDXsTiy-mbKM/edit?usp=sharing)
+- 📄 **Resume:** [View My Resume]([https://docs.google.com/document/d/1SatEHLqVFNGEfxPavpX_WpYEIm8GJTDyDXsTiy-mbKM/edit?usp=sharing](https://docs.google.com/document/d/1psemrJtkHG-_DqF2gkHp0967XBi82heZKc68z9Rtk5c/edit?tab=t.0))
 
 ---
 
